@@ -34,16 +34,15 @@ This document backs and clarifies the integration of the required computer softw
 * python manage.py tailwind start 
 * python manage.py runserver.
 
-Watch the video then Copy and paste commands from above.
+Watch the video below for a demonstration, then Copy and paste commands from above.
 
-### Video - How to use the 3 commands - 
-### (Link - Video to runs commands)
-----
+Video - How to use the 3 commands: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20Step%201%20-%20How%20to%20open%20web%20app%20in%20local%20host.mp4 
+
 <br/>
 
 # Troubleshooting
 
-### Ensure all import sections in the following .py code files match the examples below. PDF documents can be found in the github repository
+#### Ensure all import sections in the following .py code files match the examples below. PDF documents can be found in the github repository
 
 * settings.py 
 
@@ -70,17 +69,17 @@ Watch the video then Copy and paste commands from above.
 
 ## Videos of execution
 
-How to open web app in local host 
+How to open web app in local host: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20Step%201%20-%20How%20to%20open%20web%20app%20in%20local%20host.mp4
 
-Admin removing user permissions
+Admin removing user permissions: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20Admin%20removing%20user%20permissions.mp4
 
-DB SQLite3 showing data and logs 
+DB SQLite3 showing data and logs: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20DB%20SQLite3%20showing%20logs%20and%20data.mp4 
 
-User uploading and deleting files
+User uploading and deleting files: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20User%20uploading%20and%20deleting%20files.mp4 
 
-User with CRUD permissions removed
+User with CRUD permissions removed: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20User%20with%20permissions%20removed.mp4 
 
-Terminal view during user activity 
+Terminal view during user activity: https://github.com/Jhines2022/SSD-Coding-Output/blob/4187884251dcf642bf74d13cc5e792110cbd5d3d/Video%20-%20Terminal%20view%20during%20user%20activity.mp4
 
 ----
 ## Screenshots of .py files/libraries/functions/modules code
