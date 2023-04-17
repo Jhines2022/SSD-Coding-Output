@@ -66,7 +66,7 @@ Video - How to use the 3 commands: https://github.com/Jhines2022/SSD-Coding-Outp
 <br/>
 
 # Logins and Passwords 
-You can use these credentials to login to the application once the program launches in the development server at http://127.0.0.1:8000/. 
+You can use these credentials to login to the application once the program launches in the development server at http://127.0.0.1:8000/ 
 
 ![](https://github.com/Jhines2022/SSD-Coding-Output/blob/76cfd601833a92233a99f0a707756e020cdacbd2/Logins%20and%20Passwords.PNG)
 
