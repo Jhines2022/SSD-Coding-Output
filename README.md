@@ -70,6 +70,8 @@ You can use these credentials to login to the application once launched.
 
 ![](https://github.com/Jhines2022/SSD-Coding-Output/blob/76cfd601833a92233a99f0a707756e020cdacbd2/Logins%20and%20Passwords.PNG)
 
+<br/>
+
 # Evidence of execution and output
 
 ## Videos of execution
