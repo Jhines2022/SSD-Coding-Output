@@ -42,7 +42,7 @@ Video - How to use the 3 commands: https://github.com/Jhines2022/SSD-Coding-Outp
 
 # Troubleshooting
 
-#### Ensure all import sections in the following .py code files match the examples below. PDF documents can be found in the github repository
+### Ensure all *import* sections in the following .py code files match the examples below. PDF documents can be found in the github repository
 
 * settings.py 
 
@@ -56,7 +56,7 @@ Video - How to use the 3 commands: https://github.com/Jhines2022/SSD-Coding-Outp
 
 ![](https://github.com/Jhines2022/SSD-Coding-Output/blob/3f8955dd6bbfc83614b560a0e9b442783e35ea6a/Troubleshooting%20-%20urls.py.PNG)
 
-### Ensure the Add Configuration is set
+### Ensure the *Add Configuration* is set
 
 * Open window, + python
 * Give name, choose script folder
