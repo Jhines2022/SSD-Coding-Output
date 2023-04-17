@@ -2,37 +2,54 @@ README.md file in the markdown language
 
 # Project title
 ## Development Team Project: Coding Output
-
-For the full ReadME.md version with video and snapshots of the scanner in operation, follow the link  https://github.com/  or https://github.com/Jhines2022/ 
-
+----
 # Project description 
+This document backs and clarifies the integration of the required computer software components, bringing the conceptualized secure software design submitted at the end of Unit 3 of the Secure Software Development Module for the University of Essex Online into the production environment developed for the Dutch Police Internet Forensics Department. Cyber forensics departments perform computer-related evidence collection, analysis, preservation, and presentation to investigate network vulnerabilities and criminal, fraud, counterintelligence, or law enforcement activities (NICSS, n.d). As per these requirements, the illustrated solution can add/remove users and, depending on the user group they belong to, upload/download files to be used accordingly by the respective legislative authority.
+<br/>
+# Requirements 
 
-# Table of contents 
+## Install the following
+* Python v3.10.6 (https://www.python.org/downloads/)
+* PyCharm IDE (https://www.jetbrains.com/pycharm/)) 
+* Node.js 
+<br/>
+# How to implement the project
 
-# How to install and run the project
-
-## Pre-requisites
-* Python v3.10.6 ([DOWNLOAD HERE](https://www.python.org/downloads/))
-* An IDE such as PyCharm IDE (Free Community) ([DOWNLOAD HERE](https://www.jetbrains.com/pycharm/)) 
-
-
-# How to use the project
-> **`IMPORTANT`, Please read!** This program is run locally and requires 3 main commands to be run in the terminal within the Pycharm IDE 
+* Download zip file and extract files
+* Open Pycharm, click projects, new project
+* Open location folder, choose project folder, ok
+* Create from existing source, open terminal, select + next to local to open a local 2
+----
+> **`IMPORTANT`, Please read!** This program is run locally and requires 3 different commands to be run in the terminal within the Pycharm IDE 
 ### The 3 commands are:
 ### venv\Scripts\activate, python manage.py tailwind start, python manage.py runserver.
 
+## Video - Next step - 
+(Link - Video to runs commands) https://github.com/Jhines2022/SSD-Coding-Output/blob/1479ed57bd6eebafcc44da80733f181af8907541/Video%20-%20Step%201%20-%20How%20to%20open%20web%20app%20in%20local%20host.mp4
+* Copy and paste commands from above as shown in the video. 
+----
 <br/>
-----
-## Video Demo of opening the program and inserting the 3 commands to open the application in the local host within the browser for testing
-(insert github link here for video )
-----
+##Evidence of execution 
 
 
 
-## Evidence of execution 
 
-# Team members
+#Team members
 * Marios Maragkos
-* James Hines
+*James Hines
 
 # License
+
+
+<br/>
+----
+
+Screenshots
+output captures
+
+
+
+Discussion of the differences between the design and the final code produced
+
+
+
