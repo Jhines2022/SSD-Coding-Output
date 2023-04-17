@@ -154,6 +154,20 @@ Struggled with db:sqlite3. It logs the data of users, time/date, pbkdf2_sha256 h
 
 <br/>
 
+# References and resources
+
+Django. (2023) Documentation. Available from: https://docs.djangoproject.com/en/4.2/  [Accessed on 29th March 2023] 
+
+Geeksforgeeks. (2020) Top 10 Reasons to Choose Django Framework For Your Project.
+Available from: https://www.geeksforgeeks.org/top-10-reasons-to-choose-django-framework-for-your-project/ [Accessed 16th April 2023]
+
+NICSS (n.d) Digital Forensics. Available from: https://niccs.cisa.gov/workforce-development/nice-framework/specialty-areas/digital-forensics [Accessed 16 April 2023]
+
+Nodejs. (2023) Documentation. Available from: https://nodejs.org/en/docs  [Accessed on 31st March 2023]
+
+Python. (2023) Documentation. Available from: https://www.python.org/doc/ [Accessed on 28th March 2023]
+
+Tailwindcss. (2023)Get started with Tailwind CSS - Documentation. Available from: https://tailwindcss.com/docs/installation [Accessed on 29th March 2023]
 
 
 
