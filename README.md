@@ -138,8 +138,8 @@ Decorators.py provides Django’s authentication consisting of authentication an
 ![](https://github.com/Jhines2022/SSD-Coding-Output/blob/3f8955dd6bbfc83614b560a0e9b442783e35ea6a/auth%20levels%20of%20priority%20Part%202%20.PNG)
 
 ----
-# Discussion of the differences between the design and the final code produced
-Struggled with db:sqlite3. It logs the data of users, time/date, pbkdf2_sha256 hash but throws an error while loading to UTF-8 which I am struggling to modify. 
+# Discussion 
+Our planned Db.sqlite3 has an error beyond our current ability, so we had to use the Django DB FileSystemStorage. Functional requirements of CRUD and AAA were achieved but non-functional requirements in threats in python code are not fully mitigated as of yet. 
 
 ----
 
