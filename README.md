@@ -1,4 +1,4 @@
-README.md file in the markdown language 
+Word count 598 
 
 # Development Team Project: Coding Output
 ----
