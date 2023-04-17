@@ -14,8 +14,8 @@ This document backs and clarifies the integration of the required computer softw
 ## Install the following
 * Python v3.10.6 (https://www.python.org/downloads/)
 * PyCharm IDE (https://www.jetbrains.com/pycharm/)) 
-* Django web framework with Tailwind for css
-* Node.js 
+* Django web framework with Tailwind for css (https://www.djangoproject.com/download/)
+* Node.js (https://nodejs.org/en)
 <br/>
 
 # How to implement the project
